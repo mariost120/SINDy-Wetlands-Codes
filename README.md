@@ -1,7 +1,7 @@
 
 # SINDy-Wetlands-Codes
 
-Welcome to our Python repository for the manuscript **"Data-driven Discovery of Dynamical Systems for Treatment Wetlands"**, submitted to the *SIAM Journal on Life Sciences*.
+Welcome to our Python repository for the manuscript **"Data-driven Discovery of Dynamical Systems for Treatment Wetlands"**. 
 
 This repository contains the experimental datasets and Python codes used to identify nonlinear dynamical systems for eight treatment wetlands using Sparse Identification of Nonlinear Dynamics (SINDy) with Sequentially Thresholded Least Squares with LASSO Regression (STLSLR).
 
