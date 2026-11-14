@@ -15,7 +15,7 @@ The repository contains two Python scripts and one directory with the experiment
 
 - Implements the SINDy framework using STLSLR for sparse coefficient identification and hyperparameter selection.
 - Produces **Figures 5–7** for W20P: hyperparameter assessment, forward-prediction assessment, and synthetic-perturbation assessment.
-- Produces the individual plots used in **Figures 9 and 10** for the remaining seven systems: hyperparameter assessment and number of active coefficients.
+- Produces the individual plots used in **Figures 9-12** for the remaining seven systems: hyperparameter assessment and number of active coefficients.
 - Exports normalized and dimensional coefficient matrices and forward-prediction metrics.
 
 **Input and parameters:**
